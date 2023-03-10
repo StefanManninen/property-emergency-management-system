@@ -6,6 +6,6 @@ Handles incoming requests and keeps track of when the request came in and who is
 
 * Time reporting
 * User registration with toggle function
-* SMS replys
-* Email replays
+* SMS replies
+* Email replies
 * PDF Reports
